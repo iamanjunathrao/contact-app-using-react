@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iamanjunathrao/contact-app-using-react/static/css/main.1824b995.css",
-    "main.js": "/iamanjunathrao/contact-app-using-react/static/js/main.0b1e918b.js",
-    "index.html": "/iamanjunathrao/contact-app-using-react/index.html",
-    "main.1824b995.css.map": "/iamanjunathrao/contact-app-using-react/static/css/main.1824b995.css.map",
-    "main.0b1e918b.js.map": "/iamanjunathrao/contact-app-using-react/static/js/main.0b1e918b.js.map"
+    "main.css": "/contact-app-using-react/static/css/main.1824b995.css",
+    "main.js": "/contact-app-using-react/static/js/main.0b1e918b.js",
+    "index.html": "/contact-app-using-react/index.html",
+    "main.1824b995.css.map": "/contact-app-using-react/static/css/main.1824b995.css.map",
+    "main.0b1e918b.js.map": "/contact-app-using-react/static/js/main.0b1e918b.js.map"
   },
   "entrypoints": [
     "static/css/main.1824b995.css",
